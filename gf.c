@@ -1,4 +1,3 @@
-//asdfsadf
 #include "start.h"
 #include <gsl/gsl_integration.h>
 #include "inout_data.h"
